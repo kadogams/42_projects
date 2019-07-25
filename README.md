@@ -8,9 +8,9 @@ Some personal and group projects made at School 19, a campus of 42 Paris.
 
 An implementation of multiple functions from the Standard C Library and some custom ones, in order to create your own library to be used during the school curriculum.
 
-#### ft_printf
+#### libftprintf
 
-An implementation of libc's prinft function.
+An implementation of libc's prinft function added to my libft. 
 
 #### push_swap
 
