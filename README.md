@@ -14,7 +14,7 @@ An implementation of libc's prinft function added to my libft.
 
 #### push_swap
 
-A project to explore sorting algorithms.
+A project to explore sorting algorithms and be creative.
 
 #### corewar
 
