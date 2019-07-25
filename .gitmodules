@@ -7,3 +7,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/kadogams/push_swap.git
+[submodule "libftprintf"]
+	path = libftprintf
+	url = https://github.com/kadogams/libftprintf.git
